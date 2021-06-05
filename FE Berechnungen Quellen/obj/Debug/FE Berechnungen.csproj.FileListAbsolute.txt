@@ -1,0 +1,1162 @@
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\bin\Debug\FEALibrary.dll
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\App.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\MainWindow.baml
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\source\repos\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\FEALibrary.dll
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\source\repos\FE Berechnungen\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statikergebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\MainWindow.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\StatikErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\Knotenauswahl.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\Stationäre2DErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\Wärmedaten2DAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\DynamikErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Eigenfrequenzen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Knotenauswahl.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\StatikErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\Knotenauswahl.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\Stationäre2DErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisse.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\Wärmedaten2DAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\App.g.cs
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\DynamikErgebnisse.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Eigenfrequenzen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Knotenauswahl.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\source\repos\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statikergebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\StatikErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\Stationäre2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\Wärmedaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätErgebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\DynamikErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Eigenfrequenzen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Knotenauswahl.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\StatikErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\InstationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\Stationäre2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmeErgebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\Wärmedaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Elastizitätsberechnung\ElastizitätsmodellAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\DynamikErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Eigenfrequenzen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksErgebnisse\Knotenauswahl.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Tragwerksberechnung\TragwerksmodellAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\Wärmeberechnung\WärmemodellAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\Eigenfrequenzen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\Stationäre2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\Wärmedaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\Eigenfrequenzen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\Stationäre2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\Wärmedaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Juli 2020\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\Eigenfrequenzen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\Stationäre2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\Wärmedaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\Eigenfrequenzen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\Stationäre2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\Wärmedaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-08\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\Stationäre2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\Wärmedaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\Stationäre2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\Wärmedaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen- Kopie\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2020-12\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statik2DErgebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\Ergebnisse\Statikergebnisse.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten2DVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten3DVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerksmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsdaten3DVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - Kopie\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\HelixToolkit.dll
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\HelixToolkit.xml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\MainWindow.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\MainWindow.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen - FE Library\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Eigenlösung\Eigenloesung.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\StartFenster.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Eigenlösung\Eigenloesung.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\StartFenster.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Eigenlösung\Eigenlösung.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\StartFenster.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Eigenlösung\Eigenlösung.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\StartFenster.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Programm - Sicherung\FE Berechnungen Quellen 05-21\obj\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\bin\Debug\FE Berechnungen.exe.config
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\bin\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\bin\Debug\FE Berechnungen.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.AssemblyReference.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Eigenlösung\Eigenlösung.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\StartFenster.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Dateieingabe\ModelldatenEditieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Eigenlösung\Eigenlösung.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisse3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\Elastizitätsmodell3DVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Elastizitätsberechnung\ModelldatenAnzeigen\ElastizitätsmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\StartFenster.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\DynamischeModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\Ergebnisse\StatikErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\DynamikDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkdatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Tragwerksberechnung\ModelldatenAnzeigen\TragwerkmodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\EigenlösungVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\InstationäreModellzuständeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\KnotenzeitverläufeVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\StationäreErgebnisseVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\InstationäreDatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmedatenAnzeigen.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\ModelldatenAnzeigen\WärmemodellVisualisieren.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\App.g.cs
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen_MarkupCompile.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen_MarkupCompile.lref
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Dateieingabe\ModelldatenEditieren.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\Wärmeberechnung\Ergebnisse\Darstellungsbereich.baml
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.g.resources
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE_Berechnungen.Properties.Resources.resources
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.GenerateResource.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.csproj.CopyComplete
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.exe
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\obj\Debug\FE Berechnungen.pdb

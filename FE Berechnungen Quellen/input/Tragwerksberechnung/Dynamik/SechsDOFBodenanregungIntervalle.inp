@@ -1,0 +1,40 @@
+ModellName
+6DOF Bodenanregung
+
+Raumdimension
+2	2
+
+Knoten
+n0	2	0
+n1	1	0
+n2	0	0
+
+Fachwerk
+e00	n0	n1	c0	iso0
+e01	n1	n2	c1	iso1
+
+Querschnitt
+c0	 0,01
+c1	 1
+
+Material
+iso0	1	0	2
+iso1	1	0	1,98
+
+Lager
+Lager1	n2	xy
+Lager2	n1	y
+Lager3	n0	y
+
+Eigenloesungen
+2DOFEigen	2
+
+// id, tmax, dt, method, par1, par2
+Zeitintegration
+SechsDOFBodenanregung	125	0,4	1	0,25	0,5
+
+Zeitabhaengige Knotenlast
+tnl0	n2	0	Bodenanregung
+0	0	0,8	1	1,6	0	3,2	-1	4,8	0	5,6	1	6,4	0
+
+end

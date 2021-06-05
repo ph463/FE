@@ -1,0 +1,30 @@
+ModellName
+Wandecke mit 4 Elementen
+
+Raumdimension
+2	1
+
+Knoten
+n00	0	0
+n01	0	2
+n02	2	0
+n03	2	2
+n04	4	0
+n05	4	2
+
+Elemente2D3Knoten
+e00	n00	n03	n01	iso
+e01	n00	n02	n03	iso
+e02	n02	n05	n03	iso
+e03	n02	n04	n05	iso
+
+Material
+iso	5
+
+Randbedingungen
+s00	n00	-5
+s01	n01	-5
+s02	n04	20
+s03	n05	20
+
+end

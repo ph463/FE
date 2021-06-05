@@ -1,0 +1,51 @@
+﻿<Window x:Class="FE_Berechnungen.Tragwerksberechnung.Ergebnisse.EigenlösungAnzeigen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="EigenlösungAnzeigen" Height="450" Width="800">
+    <Grid Margin="0,25,0,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" MinWidth="120" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Label x:Name="Eigenfrequenzen" Content="Eigenfrequenzen" FontWeight="Bold" Margin="5,0,0,0" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" Width="115" Height="30" Grid.Column="0"/>
+        <Grid Margin="0,30,0,0" HorizontalAlignment="Right" Width="100" Grid.Column="0" Height="240" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="90"/>
+            </Grid.ColumnDefinitions>
+            <DataGrid
+                Name="EigenfrequenzenGrid" Height="240" Margin="-10,0,-10,0" Grid.Column="0"
+                VerticalAlignment="Top" AlternatingRowBackground="Aqua" HeadersVisibility="None"
+                Loaded="EigenfrequenzenGrid_Loaded" AutoGenerateColumns="False" HorizontalAlignment="Right" Width="110">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Key}"/>
+                    <DataGridTextColumn Binding="{Binding Value, StringFormat=N4}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+        <Label x:Name="Eigenvektoren" Content="Eigenvektoren" FontWeight="Bold" Margin="10,0,0,0" 
+                HorizontalAlignment="Left" VerticalAlignment="Top" Width="130" Height="30" Grid.Column="1"/>
+        <Grid Margin="10,0,0,0" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="150"/>
+            </Grid.ColumnDefinitions>
+            <DataGrid
+                Name="EigenvektorenGrid" Height="240" Margin="5,30,-150,0"
+                VerticalAlignment="Top" AlternatingRowBackground="Aqua" HeadersVisibility="None"
+                Loaded="EigenvektorenGrid_Loaded" AutoGenerateColumns="False" HorizontalAlignment="Left" Width="300">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Key}"/>
+                    <DataGridTextColumn Binding="{Binding Value}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Window>

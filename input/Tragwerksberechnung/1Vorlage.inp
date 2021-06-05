@@ -1,0 +1,85 @@
+// Schlüsselworte kennzeichnen festgelegte Inhalte,  Tabulatoren trennen separate Eingaben
+
+// nach dem Schlüsselwort "ModellName" wird ein beliebiger Name für die Modelldaten vergeben
+ModellName
+Fachwerkbrücke
+
+// nach dem Schlüsselwort "Raumdimension" wird ein Integer für 2D oder 3D, und ein Integer für die Anzahl der Knotenfreiheitsgrade
+Raumdimension
+2	3
+
+// ************************************ Knoten*****************************
+// nach dem Schlüsselwort "Knoten" kommen beliebig viele Zeilen mit Knotenname und -koordinaten
+// eine Zeile mit einem Integer-Wert ändert die Anzahl der Knotenfreitsgrade für die folgenden Knoten: Knoten 3 mit 2 Freiheitsgraden
+Knoten
+1	0	0
+2
+3	4	5
+3
+4	4	0
+
+// weitere Schlüsselwort "Knotengruppe"
+// weiteres Schlüsselwort " Aequidistantes Knotennetz"
+// weiteres Schlüsselwort "Variables Knotennetz"
+
+// ************************************ Elemente *****************************
+//
+// nach dem Schlüsselwort "Fachwerk" kommen beliebig viele Zeilen mit
+// ElementName,  Knotenname1, Knotenname 2, Querschnitt, Material
+Fachwerk
+e00	n0	n1	c1	iso
+
+// nach dem Schlüsselwort "Biegebalken" kommen beliebig viele Zeilen mit
+// ElementName,  Knotenname 1, Knotenname 2, Querschnitt, Material
+Biegebalken
+e1	1	2	c0	EIc
+
+// nach dem Schlüsselwort "BiegebalkenGelenk" kommen beliebig viele Zeilen mit
+// ElementName,  Knotenname 1, Knotenname 2, Querschnitt, Material, Gelenk  am 1. oder 2. Knoten
+BiegebalkenGelenk
+e2	2	3	c0	EIc	2
+e3	3	4	c0	EIc	1
+
+// nach dem Schlüsselwort "Feder" kommen beliebig viele Zeilen mit
+// ElementName,  Knotenname  und Materialnamen
+Feder
+feder	k1	m2
+
+// ************************************ Elementquerschnitt *****************************
+// nach dem Schlüsselwort "Querschnitt" kommen beliebig viele Zeilen mit
+// QuerschnittName, und bis zu 2 Zahlen für Fläche und Trägheitsmoment Ixx
+Querschnitt
+c0	5e-4	2e-8
+
+// ************************************ Material *****************************
+// nach dem Schlüsselwort "Material" kommen beliebig viele Zeilen mit
+// MaterialName, und bis zu 3 Zahlen für E-Modul, Poisson-Zahl und Masse bzw. FederName und 3 Federsteifigkeiten Rx, Ry, Rphi
+Material
+EIc	2e8	0
+m1	2e8
+m2	feder	0	0	100
+
+// ************************************ Lasten *****************************
+// nach dem Schlüsselwort "Knotenlast" kommen beliebig viele Zeilen mit
+// KnotenlastName, Knotenname und 3 Zahlen für Nx, Ny, M
+Knotenlast
+nl1	2	100	0	0
+
+// nach dem Schlüsselwort "Punktlast" kommen beliebig viele Zeilen mit
+// PunktlastName, Knotenname und 3 Zahlen für p1x, p1y, offset
+Punktlast
+pl1	2	0	100	0,5
+
+// nach dem Schlüsselwort "Linienlast" kommen beliebig viele Zeilen mit
+// LinienlastName, Elementname und 4 Zahlen für q1x, q1y, q2x, q2y
+Linienlast
+q	e1	0	-2	0	-2
+
+// ************************************ Festhaltungen *****************************
+// nach dem Schlüsselwort "Lager" kommen beliebig viele Zeilen mit
+// LagerName, Knotenname und Text für x-, y- und rotations-Festhaltung
+Lager
+Support1	1	xyr
+Support2	4	x
+
+end

@@ -1,0 +1,30 @@
+ModellName
+Einzelkraft auf 3D Halbraum
+
+Raumdimension
+3	3
+
+Variables Knotennetz
+0	1
+N	0	0	0
+
+3D8ElementNetz
+E	N	1	iso
+
+Material
+iso	2,4	0,2	1
+
+Knotenlasten
+LOAD	N000	0	0	0,25
+
+RandbedingungFlaeche
+S	X0	N	2	x
+S	Y0	N	2	y
+
+RandbedingungBoussinesq
+0	1
+B	X1	N	2	x
+B	Y1	N	2	y
+B	Z1	N	2	z
+
+end

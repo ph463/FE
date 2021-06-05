@@ -1,0 +1,91 @@
+ModellName
+Beispiel: instationaerer, ebener Waermetransfer
+
+Raumdimension
+2	1
+
+Knoten
+1	0	0,45
+2	0,15	0,45
+3	0,30	0,45
+4	0,45	0,45
+5	0	0,30
+6	0,15	0,30
+7	0,30	0,30
+8	0,45	0,30
+9	0	0,15
+10	0,15	0,15
+11	0,30	0,15
+12	0,45	0,15
+13	0	0
+14	0,15	0
+15	0,30	0
+
+Elemente2D3Knoten
+e01	1	5	6	iso
+e02	1	6	2	iso
+e03	2	6	7	iso
+e04	2	7	3	iso
+e05	3	7	8	iso
+e06	3	8	4	iso
+e07	5	9	10	iso
+e08	5	10	6	iso
+e09	6	10	11	iso
+e10	6	11	7	iso
+e11	7	11	12	iso
+e12	7	12	8	iso
+e13	9	13	14	iso
+e14	9	14	10	iso
+e15	10	14	15	iso
+e16	10	15	11	iso
+
+Material
+iso	1	2
+
+ElementLast3
+c01	e01	100	100	100
+c02	e02	100	100	100
+c03	e03	100	100	100
+c04	e04	100	100	100
+c05	e05	100	100	100
+c06	e06	100	100	100
+c07	e07	100	100	100
+c08	e08	100	100	100
+c09	e09	100	100	100
+c10	e10	100	100	100
+c11	e11	100	100	100
+c12	e12	100	100	100
+c13	e13	100	100	100
+c14	e14	100	100	100
+c15	e15	100	100	100
+c16	e16	100	100	100
+
+Randbedingungen
+s01	1	10
+s02	2	10
+s03	3	10
+s04	4	10
+s05	5	10
+s06	9	10
+s07	11	20
+s08	12	20
+s09	13	10
+s10	15	20
+
+Eigenloesungen
+2EigenstatesConsidered	2
+
+// id, tmax, dt, alfa
+Zeitintegration
+KonstantLinksLinearUnten	45	0,1	0,8
+
+Zeitabhaengige Randtemperaturen
+bc00	1	0	0	15	3	20	10
+bc01	2	0	0	15	3	20	10
+bc02	3	0	0	15	3	20	10
+bc03	4	0	0	15	3	20	10
+bc04	5	0	0	15	3	20	10
+bc05	9	0	0	15	3	20	10
+bc06	13	0	0	15	3	20	10
+
+end

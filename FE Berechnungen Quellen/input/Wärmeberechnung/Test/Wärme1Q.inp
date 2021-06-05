@@ -1,0 +1,26 @@
+ModellName
+ein einzelnes Vireckselement
+
+Raumdimension
+2	1
+
+Knoten
+n00	0	0
+n01	4	0
+n02	4	2
+n03	0	2
+
+Elemente2D4Knoten
+e00	n00	n01	n02	n03	iso
+
+Material
+iso	1
+
+ElementLast4
+a00	e00	3	3	3	3
+
+Randbedingungen
+s00	n01	1
+s01	n02	1
+
+end

@@ -1,0 +1,34 @@
+ModellName
+einfacher Balken
+
+Raumdimension
+2	3
+
+Knoten
+A	0	0
+B	4	0
+
+Biegebalken
+Balken1	A	B	c0	m0
+
+Querschnitt
+c0	5e-2	2e-5
+
+Material
+m0	2,1e8	0
+
+Knotenlast
+Ma	A	0	0	20
+Mb	B	0	0	-10
+
+//Punktlast
+Punktlast1	Balken1	12	-5	0,5
+
+//Linienlast
+Linienlast1	Balken1	0	-2	0	-2
+
+Lager
+Lager1	A	xy
+Lager2	B	xy
+
+end

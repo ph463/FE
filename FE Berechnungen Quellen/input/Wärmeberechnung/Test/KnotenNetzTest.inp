@@ -1,0 +1,30 @@
+ModellName
+Test fuer Knotengruppe und Knotennetz
+
+Raumdimension
+2	1
+
+Knotengruppe
+n
+0	3
+0	2
+0	1
+1	3
+1	2
+1	1
+1	0
+2	3
+2	2
+2	1
+2	0
+
+Aequidistantes Knotennetz
+N	0.	2.	12
+A	0.	1.	3	1.	1.	3
+Z	0.	1.	3	1.	1.	3	2.	1.	3
+
+Variables Knotennetz
+0.	1.	3.	6.
+X	0.	0.
+
+end

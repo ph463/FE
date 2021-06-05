@@ -1,0 +1,31 @@
+ModellName
+Rahmen
+
+Raumdimension
+2	3
+
+Knoten
+1	0	0
+2	0	5
+3	4	5
+4	4	0
+
+Biegebalken
+e1	1	2	c0	EIc
+e2	2	3	c0	EIc
+e3	3	4	c0	EIc
+
+Querschnitt
+c0	5e-2	2e-5
+
+Material
+EIc	2e8	0
+
+Knotenlast
+nl1	2	100	0	0
+
+Lager
+lager1	1	xyr
+lager2	4	xyr
+
+end

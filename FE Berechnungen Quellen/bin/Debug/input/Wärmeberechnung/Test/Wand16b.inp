@@ -1,0 +1,55 @@
+ModellName
+Wand mit Isolierung
+
+Raumdimension
+2	1
+
+Knoten
+n00	0	0
+n01	0	0,2
+n02	0	0,4
+n03	0,05	0,
+n04	0,05	0,2
+n05	0,05	0,4
+n06	0,10	0
+n07	0,10	0,2
+n08	0,10	0,4
+n09	0,25	0
+n10	0,25	0,2
+n11	0,25	0,4
+n12	0,40	0,0
+n13	0,40	0,2
+n14	0,40	0,4
+
+Elemente2D3Knoten
+e00	n00	n03	n04	iso1
+e01	n00	n04	n01	iso1
+e02	n01	n04	n02	iso1
+e03	n04	n05	n02	iso1
+e04	n03	n06	n07	iso2
+e05	n03	n07	n04	iso2
+e06	n04	n07	n05	iso2
+e07	n07	n08	n05	iso2
+e08	n06	n09	n10	iso3
+e09	n06	n10	n07	iso3
+e10	n07	n10	n08	iso3
+e11	n10	n11	n08	iso3
+e12	n09	n12	n13	iso3
+e13	n09	n13	n10	iso3
+e14	n10	n13	n11	iso3
+e15	n13	n14	n11	iso3
+
+Material
+iso1	2,1
+iso2	2,1
+iso3	2,1
+
+Randbedingungen
+s00	n00	-5
+s01	n01	-5
+s02	n02	-5
+s12	n12	20
+s13	n13	20
+s14	n14	20
+
+end

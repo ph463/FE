@@ -1,0 +1,35 @@
+ModellName
+3DOF Sinus Funktion Anregung
+
+Raumdimension
+2	1
+
+Knoten
+n0	2	0
+n1	1	0
+n2	0	0
+
+Elemente2D2Knoten
+e00	n0	n1	c0
+e01	n1	n2	c1
+
+// name, conductivity, density*specificHeat
+Material
+c0	1	2
+c1	0,01	0
+
+Randbedingungen
+Randbedingung0	n2	0
+
+Eigenloesungen
+2DOFEigen	2
+
+// id, tmax, dt, alfa
+Zeitintegration
+2DOFSinusAnregung	400	0,99	0
+
+// DreiDOFSinus
+Zeitabhaengige Knotenlast
+tn0	n0
+
+end

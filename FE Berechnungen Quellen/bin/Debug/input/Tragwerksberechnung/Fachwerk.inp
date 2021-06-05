@@ -1,0 +1,50 @@
+ModellName
+Fachwerkbrücke
+
+Raumdimension
+2	2
+
+Knoten
+n0	0	0
+n1	1	2
+n2	2	0
+n3	3	2
+n4	4	0
+n5	5	2
+n6	6	0
+n7	7	2
+n8	8	0
+
+Fachwerk
+e00	n0	n1	c1	iso
+e01	n1	n2	c1	iso
+e02	n2	n3	c1	iso
+e03	n3	n4	c1	iso
+e04	n4	n5	c1	iso
+e05	n5	n6	c1	iso
+e06	n6	n7	c1	iso
+e07	n7	n8	c1	iso
+e08	n1	n3	c1	iso
+e09	n3	n5	c1	iso
+e10	n5	n7	c1	iso
+e11	n0	n2	c1	iso
+e12	n2	n4	c1	iso
+e13	n4	n6	c1	iso
+e14	n6	n8	c1	iso
+
+Querschnitt
+c1	0,001
+
+// Id	EModul	Poisson	spez.Masse
+Material
+iso	2,1e8	0	2,5
+
+Knotenlast
+last1	n1	1000	0
+last2	n4	0	-4000
+
+Lager
+lager1	n0	xy
+lager2	n8	y
+
+end

@@ -1,0 +1,50 @@
+ModellName
+stationaerer Waermefluss: U-Profile, quadrilateral elements
+
+Raumdimension
+3	1
+
+Knoten
+n00	0	0	0
+n01	4	0	0
+n02	4	2	0
+n03	0	2	0
+n04	8	0	0
+n05	8	2	0
+n06	8	4	0
+n07	4	4	0
+n08	-4	0	0
+n09	-4	2	0
+n10	-4	4	0
+n11	0	4	0
+
+Elemente2D4Knoten
+fe1	n00	n01	n02	n03	iso
+fe2	n01	n04	n05	n02	iso
+fe3	n02	n05	n06	n07	iso
+fe4	n08	n00	n03	n09	iso
+fe5	n09	n03	n11	n10	iso
+
+Material
+iso	1
+
+Randbedingungen
+b1	n04	95,8
+b2	n05	-15,8
+b3	n06	55,8
+b4	n02	-15,8
+b5	n11	-15,8
+
+LinienLasten
+boundary1	n09	n10	10	0
+boundary2	n06	n05	10	0
+boundary3	n08	n09	20	10
+
+ElementLast4
+areaload1	fe1	5	5	5	5
+areaload2	fe2	5	5	5	5
+areaload3	fe3	10	10	10	10
+areaload4	fe4	10	10	10	10
+areaload5	fe5	5	5	5	5
+
+end

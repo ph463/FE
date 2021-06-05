@@ -1,0 +1,36 @@
+C:\Users\Karl\source\repos\FE Berechnungen\FEALibrary\bin\Debug\FEALibrary.dll
+C:\Users\Karl\source\repos\FE Berechnungen\FEALibrary\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\source\repos\FE Berechnungen\FEALibrary\obj\Debug\FE Library.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\FE Berechnungen\FEALibrary\obj\Debug\FEALibrary.dll
+C:\Users\Karl\source\repos\FE Berechnungen\FEALibrary\obj\Debug\FEALibrary.pdb
+C:\Users\Karl\source\repos\FE Berechnungen\FEALibrary\obj\Debug\FE Library.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\FEALibrary\obj\Debug\FE Library.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\FEALibrary\obj\Debug\FE Library.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\FEALibrary\obj\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\FEALibrary\obj\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\FEALibrary\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen temp\FEALibrary\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\FEALibrary\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\FEALibrary\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\FEALibrary\obj\Debug\FE Library.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\FEALibrary\obj\Debug\FE Library.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\FEALibrary\obj\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen - 2021-02\FEALibrary\obj\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\FEALibrary\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\FEALibrary\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\FEALibrary\obj\Debug\FE Library.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\FEALibrary\obj\Debug\FE Library.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\FEALibrary\obj\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\Visual Studio 2019\Projekte\FE Berechnungen\FEALibrary\obj\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\FEALibrary\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\FEALibrary\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\FEALibrary\obj\Debug\FE Library.csprojAssemblyReference.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\FEALibrary\obj\Debug\FE Library.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\FEALibrary\obj\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Analysis\FE Berechnungen Quellen\FEALibrary\obj\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\FEALibrary\bin\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\FEALibrary\bin\Debug\FEALibrary.pdb
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\FEALibrary\obj\Debug\FE Library.csproj.AssemblyReference.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\FEALibrary\obj\Debug\FE Library.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\FEALibrary\obj\Debug\FEALibrary.dll
+C:\Users\Karl\Documents\FE Programm\FE Berechnungen Quellen\FEALibrary\obj\Debug\FEALibrary.pdb

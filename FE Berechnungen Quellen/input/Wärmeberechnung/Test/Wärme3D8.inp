@@ -1,0 +1,29 @@
+ModellName
+ein einzelnes 3D Element mit 8 Knoten
+
+Raumdimension
+3	1
+
+Knoten
+n00	0	0	0
+n01	4	0	0
+n02	4	2	0
+n03	0	2	0
+n04	0	0	1
+n05	4	0	1
+n06	4	2	1
+n07	0	2	1
+
+Elemente3D8Knoten
+e0	n00	n01	n02	n03	n04	n05	n06	n07	iso
+
+Material
+iso	1	2	3	1
+
+Randbedingungen
+s00	n01	20
+s01	n03	20
+s02	n04	20
+s03	n07	20
+
+end

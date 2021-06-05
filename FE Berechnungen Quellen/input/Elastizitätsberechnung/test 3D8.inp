@@ -1,0 +1,32 @@
+ModellName
+Einzelkraft auf Einzelelement
+
+Raumdimension
+3	3
+
+Knoten
+N000000	0	0	0
+N000001	0	0	1
+N000100	0	1	0
+N000101	0	1	1
+N010000	1	0	0
+N010001	1	0	1
+N010100	1	1	0
+N010101	1	1	1
+
+Element3D8
+E000000	N000000	N010000	N010100	N000100	N000001	N010001	N010101	N000101	iso
+
+Material
+iso	2,4	0,2	1,0
+
+Knotenlasten
+LOAD	N010101	0	0	-0,25
+
+Randbedingungen
+s1	N000000	xyz
+s2	N010000	xyz
+s3	N000100	xyz
+
+end
+

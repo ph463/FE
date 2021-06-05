@@ -1,0 +1,33 @@
+ModellName
+2 symmetrische Staebe
+
+Raumdimension
+2	3
+
+Knoten
+n00	0	0
+n01	4	3
+n02	8	0
+
+Biegebalken
+e0	n00	n01	c0	m0
+e1	n01	n02	c0	m0
+
+Querschnitt
+c0	5e-2	2e-5
+
+Material
+m0	2,1e8	0
+
+Linienlast
+ll0	e0	0	-2	0	-2
+ll1	e1	0	-2	0	-2
+
+Knotenlast
+p1	n01	0	-10
+
+Lager
+s0	n00	xy
+s1	n02	y
+
+end
