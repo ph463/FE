@@ -20,6 +20,6 @@ Insbesondere Schnittkraftverläufe für Normal- und Querkräfte wie auch Momente
 Egebnisse dynamischer Berechnungen werden als Modellzustände an bestimmten Zeitschritten wie als Knotenzeitverläufe über den
 gesamten Berechnungszeitverlauf dargestellt werden.
 
-Grundlage der Entwicklung ist eine Bibliothek für die Aufgaben der Finite Element Analyse (FEALibrary). Diese beinhaltet vor
+Grundlage der Entwicklung ist eine Bibliothek für die Aufgaben der Finite Element Analyse (FE Bibilothek). Diese beinhaltet vor
 allem allgemeine Aufgaben der Matrizenalgebra, Gleichungslöser zur Lösung linearer Gleichungssysteme und Zeitintegrations-
 verfahren für Systeme 1. und 2. Ordnung.
