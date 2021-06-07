@@ -16,10 +16,10 @@ Eigenwertanalysen werden unterstützt für eine vordefinierbare Anzahl von Eigen
 Modelldaten werden in der Regel aus einer input-Datei mit vordefinierten Beispielen eingelesen. Die daraus resultierenden 
 Modelldaten können alfanumerisch angezeigt und editiert werden wie auch visuell dargestellt werden.
 Die Ergebnissse der Berechnungen können ebenso in alfanumerischer Form angezeigt werden wie auch visuell dargestellt werden.
-Insbesondere Schnittkraftverläufe für Normal- und Querkräfte wie auch Momentenverläufe werden in grafischer Form dargestellt.
+Schnittkraftverläufe für Normal- und Querkräfte wie auch Momentenverläufe werden in grafischer Form dargestellt.
 Egebnisse dynamischer Berechnungen werden als Modellzustände an bestimmten Zeitschritten wie als Knotenzeitverläufe über den
-gesamten Berechnungszeitverlauf dargestellt werden.
+gesamten Berechnungszeitverlauf dargestellt.
 
 Grundlage der Entwicklung ist eine Bibliothek für die Aufgaben der Finite Element Analyse (FE Bibilothek). Diese beinhaltet vor
-allem allgemeine Aufgaben der Matrizenalgebra, Gleichungslöser zur Lösung linearer Gleichungssysteme und Zeitintegrations-
-verfahren für Systeme 1. und 2. Ordnung.
+allem allgemeine Aufgaben der Matrizenalgebra, Gleichungslöser zur Lösung linearer Gleichungssysteme und Zeitintegrationsverfahren
+für Systeme 1. und 2. Ordnung.
